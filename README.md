@@ -68,14 +68,14 @@ Keywords=Window manager
 ### 3) Clone the configuration
 
 ```
-git clone https://github.com/HikariKnight/material-awesome.git ~/.config/awesome
+git clone https://github.com/mrityunjaygr8/material-awesome.git ~/.config/awesome
 ```
 
 > This theme requires the current (as of 23.02.2021) **master** branch of Awesome, it does not work on Awesome 4.3-stable which is what most distros ship. If you want to install the older config on Awesome4.3-stable or Awesome 4.2 use the specific awesome-4.2 or awesome4.3-stable branch (not in development by me)
 
 Awesome4.3-stable (older version with less features, no longer maintained, browse the branch for install requirements!)
 ```
-git clone -b awesome4.3-stable https://github.com/HikariKnight/material-awesome.git ~/.config/awesome
+git clone -b awesome4.3-stable https://github.com/mrityunjaygr8/material-awesome.git ~/.config/awesome
 ```
 
 Awesome4.2
